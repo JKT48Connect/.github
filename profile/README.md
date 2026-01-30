@@ -4,13 +4,13 @@
 
 **Your Gateway to JKT48 Data Ecosystem**
 
-[![API Status](https://img.shields.io/badge/API-Online-success)](https://v2.jkt48connect.my.id)
+[![API Status](https://img.shields.io/badge/API-Online-success)](https://v2.jkt48connect.com)
 [![Documentation](https://img.shields.io/badge/Docs-Available-blue)](https://docs.jkt48connect.com)
 [![NPM Package](https://img.shields.io/npm/v/@jkt48/core)](https://www.npmjs.com/package/@jkt48/core)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/jkt48connect)
+[![Discord](https://img.shields.io/discord/1258927086542917705?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/wby4s3nwuH)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[Website](https://jkt48connect.com) • [Documentation](https://docs.jkt48connect.com) • [API](https://v2.jkt48connect.my.id) • [Discord Server](https://discord.gg/jkt48connect)
+[Website](https://jkt48connect.com) • [Documentation](https://docs.jkt48connect.com) • [API](https://v2.jkt48connect.com) • [Discord Server](https://discord.gg/wby4s3nwuH)
 
 </div>
 
@@ -43,9 +43,9 @@ Our API system powers several official JKT48 fanbase websites, providing them wi
 
 | Fanbase | Description | Website |
 |---------|-------------|---------|
-| **Cavallery** | Official fanbase community | [Visit Site](#) |
-| **Nayrakuen** | Official fanbase community | [Visit Site](#) |
-| **FritzyForce** | Official fanbase community | [Visit Site](#) |
+| **Cavallery** | Official fanbase community | [Visit Site](https://cavallery.id) |
+| **Nayrakuen** | Official fanbase community | [Visit Site](https://nayrakuen.com) |
+| **FritzyForce** | Official fanbase community | [Coming Soon](#) |
 
 </div>
 
@@ -120,9 +120,9 @@ Get JKT48 updates and information directly in your Discord server. Our Discord b
 - News and event updates
 - Interactive commands for JKT48 data
 
-**Add to Your Server:** [Invite Discord Bot](https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=YOUR_PERMISSIONS&scope=bot%20applications.commands)
+**Add to Your Server:** [Invite Discord Bot](https://docs.jkt48connect.com/invite)
 
-**Join Our Community:** [JKT48Connect Discord Server](https://discord.gg/jkt48connect)
+**Join Our Community:** [JKT48Connect Discord Server](https://discord.gg/wby4s3nwuH)
 
 #### **Other Bots**
 - **WhatsApp Bot** - Interactive bot for JKT48 information
@@ -193,7 +193,7 @@ Get unlimited requests and enhanced support by joining our Priority Access progr
 - Advanced analytics
 - Custom endpoints (on request)
 
-**[Apply for Priority Access →](https://docs.jkt48connect.com/priority-access)**
+**[Apply for Priority Access →](https://forms.gle/KeqJF9nAeEq7hxWP9)**
 
 ---
 
@@ -229,7 +229,7 @@ Need help? We're here for you!
 
 - **Email**: support@jkt48connect.com
 - **WhatsApp**: +62 857-0147-9245
-- **Discord Server**: [Join JKT48Connect Community](https://discord.gg/jkt48connect)
+- **Discord Server**: [Join JKT48Connect Community](https://discord.gg/wby4s3nwuH)
 - **Twitter**: [@JKT48Connect](https://twitter.com/jkt48connect)
 - **Documentation**: [docs.jkt48connect.com](https://docs.jkt48connect.com)
 
