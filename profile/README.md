@@ -242,7 +242,7 @@ Get support, report issues, request features, or chat with other developers and 
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/JKT48Connect?style=social)
-![NPM Downloads](https://img.shields.io/npm/dm/@jkt48/core)
+![NPM Downloads](https://img.shields.io/npm/dm/@jkt48connect-corp/sdk)
 ![API Uptime](https://img.shields.io/badge/Uptime-99.9%25-success)
 ![Active Users](https://img.shields.io/badge/Active%20Users-1000%2B-blue)
 ![Official Partners](https://img.shields.io/badge/Official%20Fanbases-3-orange)
