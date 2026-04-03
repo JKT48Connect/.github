@@ -46,7 +46,7 @@ Our API system powers several official JKT48 fanbase websites, providing them wi
 | **Cavallery** | Official fanbase community | [Visit Site](https://cavallery.id) |
 | **Nayrakuen** | Official fanbase community | [Visit Site](https://nayrakuen.com) |
 | **FritzyForce** | Official fanbase community | [Coming Soon](#) |
-| **Maxineiu** | Official fanbase community | [-](#) |
+| **Maxineiu** | Official fanbase community | DiscordBot |
 </div>
 
 These official fanbases trust JKT48Connect to deliver accurate, real-time data for their communities. Join them and experience the reliability of our API infrastructure.
@@ -288,7 +288,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 The visionary behind the entire JKT48Connect ecosystem. Valzyys created and maintains all teams under the JKT48Connect umbrella, including J-Force and Zenova.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Valzyys-181717?style=for-the-badge&logo=github)](https://github.com/Valzyys)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6285701479245)
 
 </div>
