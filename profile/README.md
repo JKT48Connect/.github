@@ -46,7 +46,7 @@ Our API system powers several official JKT48 fanbase websites, providing them wi
 | **Cavallery** | Official fanbase community | [Visit Site](https://cavallery.id) |
 | **Nayrakuen** | Official fanbase community | [Visit Site](https://nayrakuen.com) |
 | **FritzyForce** | Official fanbase community | [Coming Soon](#) |
-
+| **Maxineiu** | Official fanbase community | [-](#) |
 </div>
 
 These official fanbases trust JKT48Connect to deliver accurate, real-time data for their communities. Join them and experience the reliability of our API infrastructure.
